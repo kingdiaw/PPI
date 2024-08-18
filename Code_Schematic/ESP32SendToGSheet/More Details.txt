@@ -1,0 +1,6 @@
+1. add your wifi name in Program
+2. Add Your wifi password in program
+3. Add sheet ID script
+4. Add Google script id in program
+
+Best of luck for your project !!!!!
